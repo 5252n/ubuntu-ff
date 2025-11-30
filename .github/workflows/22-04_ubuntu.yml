@@ -4,7 +4,7 @@ on:
     inputs:
       auth:
         description: 'Chrome Remote Desktop Authorization Code'
-        required: true
+        required: false
         default: 'paste your code here'
 
 jobs:
